@@ -26,15 +26,15 @@
 {\Large\bf DIPLOMOVÁ PRÁCE}\\
 \vspace{3mm}
 {\bf Nelineární procesy v akrečních discích}\\
-\vspace{20mm}
+\vspace{25mm}
 {\Large Bc. Jiří Květoň}\\
-\vspace{30mm}
+\vspace{25mm}
 \large
 \noindent Vedoucí diplomové práce: Mgr. Viktor Votruba, Ph.D.
 
-\vspace{20mm}
+\vspace{25mm}
 
-Brno 2014
+Brno 2013
 \end{center}
 
 \end{titlepage}
@@ -59,7 +59,7 @@ Brno 2014
 \noindent
 \noindent Abstrakt:
 \noindent \\
-\noindent Klíčová slova: Akreční disk, 
+\noindent Klíčová slova: ... 
 \vspace{10mm}
 
 \noindent Abstract: 
@@ -88,7 +88,7 @@ Brno 2014
 
 \begin{thebibliography}{99}
 \addcontentsline{toc}{chapter}{Literatura}
- \bibitem{abraham-marsden}Abraham R., Marsden J. E.: {\em Foundations of Mechanics}, Addison-Wesley, Reading, 1985.
+ %\bibitem{abraham-marsden}Abraham R., Marsden J. E.: {\em Foundations of Mechanics}, Addison-Wesley, Reading, 1985.
 \end{thebibliography}
 
 \end{document}

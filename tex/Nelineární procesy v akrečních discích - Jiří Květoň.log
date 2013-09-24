@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.17)  24 SEP 2013 14:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.17)  24 SEP 2013 15:17
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -340,7 +340,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks17
 )
-No file "Nelineární procesy v akrečních discích - Jiří Květoň".aux.
+(./Nelineární procesy v akrečních discích - Jiří Květoň.aux)
 \openout1 = `"Nelineární procesy v akrečních discích - Jiří Květoň.aux
 "'.
 
@@ -356,6 +356,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
@@ -451,15 +452,12 @@ Package epstopdf Info: Source file: <logo.eps>
 (epstopdf)                    date: 2013-09-18 11:06:52
 (epstopdf)                    size: 619338 bytes
 (epstopdf)             Output file: <logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-09-24 14:48:11
+(epstopdf)                    size: 25634 bytes
 (epstopdf)             Command: <repstopdf --outfile=logo-eps-converted-to.pdf 
 logo.eps>
 (epstopdf)             \includegraphics on input line 24.
-runsystem(repstopdf --outfile=logo-eps-converted-to.pdf logo.eps)...executed sa
-fely (allowed).
-
-Package epstopdf Info: Result file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-09-24 14:48:11
-(epstopdf)                    size: 25634 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <logo-eps-converted-to.pdf, id=1, 314.17375pt x 313.17pt>
 File: logo-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -470,43 +468,51 @@ Package pdftex.def Info: logo-eps-converted-to.pdf used on input line 24.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo-eps-converted-to.pd
 f>] [3] [4]
-No file "Nelineární procesy v akrečních discích - Jiří Květoň".toc.
+(./Nelineární procesy v akrečních discích - Jiří Květoň.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write3
 \openout3 = `"Nelineární procesy v akrečních discích - Jiří Květoň.toc
 "'.
 
-[5
+ [5
 
 ]
 Kapitola 1.
 [6
 
-] [7
+]
 
-] (./Nelineární procesy v akrečních discích - Jiří Květoň.aux)
+LaTeX Warning: Empty `thebibliography' environment on input line 92.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+[7
 
- ) 
+] (./Nelineární procesy v akrečních discích - Jiří Květoň.aux) ) 
 Here is how much of TeX's memory you used:
- 2813 strings out of 493485
- 37354 string characters out of 3143526
+ 2832 strings out of 493485
+ 37768 string characters out of 3143526
  100542 words of memory out of 3000000
- 6083 multiletter control sequences out of 15000+200000
- 10021 words of font info for 23 fonts, out of 3000000 for 9000
+ 6092 multiletter control sequences out of 15000+200000
+ 11775 words of font info for 30 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,5n,24p,302b,180s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
-fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+{/usr/
+share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+frm1728.pfb>
 Output written on "Nelineární procesy v akrečních discích - Jiří Květo�
-�.pdf" (6 pages, 145145 bytes).
+�.pdf" (6 pages, 125515 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
