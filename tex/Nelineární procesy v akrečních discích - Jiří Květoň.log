@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.17)  24 SEP 2013 15:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.17)  24 SEP 2013 15:27
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -452,7 +452,7 @@ Package epstopdf Info: Source file: <logo.eps>
 (epstopdf)                    date: 2013-09-18 11:06:52
 (epstopdf)                    size: 619338 bytes
 (epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-09-24 14:48:11
+(epstopdf)                    date: 2013-09-24 15:27:04
 (epstopdf)                    size: 25634 bytes
 (epstopdf)             Command: <repstopdf --outfile=logo-eps-converted-to.pdf 
 logo.eps>
@@ -509,7 +509,7 @@ hare/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 frm1728.pfb>
 Output written on "Nelineární procesy v akrečních discích - Jiří Květo�
-�.pdf" (6 pages, 125515 bytes).
+�.pdf" (6 pages, 125433 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
