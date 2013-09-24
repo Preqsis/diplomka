@@ -1,0 +1,94 @@
+\documentclass[12pt,notitlepage]{report}
+\pagestyle{plain}
+\frenchspacing
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{a4wide}
+\usepackage{graphicx}
+\usepackage[left=4cm]{geometry}
+\begin{document}
+
+%
+% TITULNÍ STRANA
+%
+\begin{titlepage}
+\begin{center}
+
+
+{\Large MASARYKOVA UNIVERZITA}\\
+\vspace{3mm}
+{Přírodovědecká fakulta}\\
+{Ústav teoretické fyziky a astrofyziky}\\
+\vspace{10mm}
+\includegraphics[scale=0.4]{logo.eps}\\
+\vspace{10mm}
+{\Large\bf DIPLOMOVÁ PRÁCE}\\
+\vspace{3mm}
+{\bf Nelineární procesy v akrečních discích}\\
+\vspace{20mm}
+{\Large Bc. Jiří Květoň}\\
+\vspace{30mm}
+\large
+\noindent Vedoucí diplomové práce: Mgr. Viktor Votruba, Ph.D.
+
+\vspace{20mm}
+
+Brno 2014
+\end{center}
+
+\end{titlepage}
+
+\normalsize 
+\setcounter{page}{3}
+\vspace{10mm}
+
+\noindent Na tomto místě mohou být napsána případná poděkování... bla bla bla... dopsat potom!!!
+
+\vspace{\fill}
+\noindent Prohlašuji, že jsem svou diplomovou práci napsal samostatně a výhradně s použitím citovaných pramenů.
+ Souhlasím se zapůjčováním práce a jejím zveřejňováním.
+
+\bigskip
+\noindent V Brně dne 1. 1. 0000 \hspace{\fill}Jiří Květoň
+\newpage
+
+%
+% AKSTRAKTY
+%
+\noindent
+\noindent Abstrakt:
+\noindent \\
+\noindent Klíčová slova: Akreční disk, 
+\vspace{10mm}
+
+\noindent Abstract: 
+\noindent \\
+\noindent Keywords: klíčová slova (3 až 5) v angličtině
+\newpage
+
+%
+% OBSAH
+%
+\tableofcontents
+\newpage
+
+%
+% KAPITOLY
+%
+\chapter{Název první kapitoly}
+\section{Název první podkapitoly v první kapitole}
+\section{Název druhé podkapitoly v první kapitole}
+
+
+%%% Seznam literatury
+%%%
+%%% Literatura se řadí abecedně. Úvádí se pouze literatura, na kterou se v textu odkazuje.
+%%% Při odkazu na knihu se vždy uvádějí čísla stránek.
+
+\begin{thebibliography}{99}
+\addcontentsline{toc}{chapter}{Literatura}
+ \bibitem{abraham-marsden}Abraham R., Marsden J. E.: {\em Foundations of Mechanics}, Addison-Wesley, Reading, 1985.
+\end{thebibliography}
+
+\end{document}
